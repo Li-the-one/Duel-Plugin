@@ -1,0 +1,9 @@
+name: DuelPlugin
+main: com.votredomaine.duelplugin.MainPlugin
+version: 1.0
+description: Plugin de duel pour Minecraft
+author: REUBEEN
+commands:
+  duel:
+    description: Commande pour gérer les duels
+    usage: /duel <start|join>
